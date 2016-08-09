@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map3" tilewidth="32" tileheight="32">
+  <image source="map3.png" width="1216" height="352"/>
+ </tileset>
+ <layer name="块层 2" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1cXOnlUYhlHctbjbAJcWt+I2oDgUa4EWtwFu5SpSxWVAcXc7Aoq72xHg7p6wyDvmDPolK3mz5bnvPfn/ueaa85vzm/P7v9/czMO8zMf8LMCCLMTCLMKiLMbiLMGSLMXSjGAZlmU5lmcFVmSlQb6zlr2cydncyd3MyKzMzOxkJCuZyU6HdEmndEvHdE3ndM8bWlfOeqzPBmzIRmzMJmzKZoxkFJuzBVuyFVuzDduyHduzAzsymp0G+c5a9nImZ3MndzMjszIzs5ORrGQmOx3SJZ3SLR3TNZ1bb3hD+8oZw37szwEcyEEczCEcymGM5XCO4EiO4mjGMZ5jOJbjmMBEjh/kO2vZy5mczZ3czYzMyszMTkaykpnsdEiXdEq3dEzXdG7M8IbOknM253Au53E+F3AhF3ExlzCJS4nJXMblXMGVTGEq05jODGYO8p217OVMzuZO7mZGZmVmZicjWclMdjqkSzqlWzqmazp39vCGbpEzi1u5jdu5gzu5i7u5h3u5j/t5gAd5iId5hEd5jMd5gid5iqcH+c5a9nImZ3MndzMjszIzs5ORrGQmOx3SJZ3SLR3TNZ2bNbyhZ+TM5lme43le4EVe4mVe4VVe43Xe4E3e4m3e4V3e430+4EM+4uNBvrOWvZzJ2dzJ3czIrMzM7GQkK5nJTod0Sad0S8d0TedmD2/oEzmf8hmf8wVf8hVf8w3f8h3f8wM/8hM/8wu/8hu/8wd/8hd/888g31nLXs7kbO7kbmZkVmZmdjKSlcxkp0O6pFO6pWO6pnOfDm9oUX+0FmNxlmBJlmJpRrAMy7Icy7MCK7ISK7MKq7Iaq7MGa7IWa7POIN9Zy17O5Gzu5G5mZFZmZnYykpXMZKdDuqRTuqVjuqZzuv/3hkbKGcXmbMGWbMXWbMO2bMf27MCOjGYndmYXdmU3dmcP9mQv9mafQb6zlr2cydncyd3MyKzMzOxkJCuZyU6HdEmndEvHdE3nRg1v6DA5YzmcIziSoziacYznGI7lOCYwkeM5gRM5iZM5hVM5jdM5gzMH+c5a9nImZ3MndzMjszIzs5ORrGQmOx3SJZ3SLR3TNZ0bO7yhS+RM4tL//ikymcu4nCu4kilMZRrTmcFMruJqruFaruN6buBGbuLmQb6zlr2cydncyd3MyKzMzOxkJCuZyU6HdEmndEvHdE3nJg1v6F+S6nZ6
+  </data>
+ </layer>
+ <layer name="块层1" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAIB3Awu4AAE=
+  </data>
+ </layer>
+ <objectgroup name="Collision">
+  <object x="0" y="369" width="1600" height="32"/>
+  <object x="0" y="0" width="32" height="480"/>
+  <object x="1568" y="0" width="32" height="480"/>
+ </objectgroup>
+</map>

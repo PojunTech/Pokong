@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map3" tilewidth="32" tileheight="32">
+  <image source="map3.png" width="1216" height="352"/>
+ </tileset>
+ <layer name="块层 4" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztkukuA1EYhmdqdx1Iqe06kFLbJeAnUmr78V4AfiKltktAancdSKntOvDgSE7GJDMNrVR8yZMzM5nzfEs+x/nbMQKjMPbbhXwzFmEJlovkL9Wc9mAfDsx7Fg7h6If8xZ7TZ1zCFVyb9xzcwK3Pv8dwAqdwBudwEeD3zskO7gqHcAmncIscKrwLx3mGl7cH9+M9wlkBle7Xf/NwB/fwAI/wFOD3zskO7gqHcAmncCtv+mAfxF4oG7KvBupthCZTd5SzGVp8+qjiWzXUQC3UQb3Pf3Z452QHd4VDuIRTuEWO97rZB7EXyoXsowt/N/SYPHHOXujzyRvjWyu0QTt0QGdAH9452cFd4RAu4RRuxUwf7IPYC0XccH2M45+ASZMnyTkF0z55E3zrhwEYhCEYDujDOyc7uCscwiWcwq2EqZt9EHuhaMg+VvCvwprJk+Zchw2fvCm+zcAszME8LAT04Z2THdwVDuESTuFWytTNPoi9UDxkH4VEhlo2YQu2YQd2A/rwzskO7gqHcAmncCtj6mYfxF4oWYQ+Shnsg9gLpcu8j/8oj3gFtEF1Zw==
+  </data>
+ </layer>
+</map>

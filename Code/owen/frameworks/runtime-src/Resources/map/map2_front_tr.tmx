@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map2" tilewidth="32" tileheight="32">
+  <image source="map2.png" width="800" height="608"/>
+ </tileset>
+ <tileset firstgid="476" name="map2_1" tilewidth="32" tileheight="32">
+  <image source="map2_1.png" width="576" height="320"/>
+ </tileset>
+ <layer name="块层 5" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztz/e3D3Qcx/GvqyINOhXaxkFToU4lLRrHDO3THkqcSoOGHM8oofUXlvbCadKg8fgj7vecfrifcx6/vl/PzyfjBoNPOcBnfM4XfMlXfM03fMt3fM8PHOQQhxnt52ZuZyNb2cx2GtKSprSlMa1p7kcdP/Ezv/Arv3GEo/zOH/zJXxzjOH/zD/8O4R9u5nY2spXNbKchLWlKWxrTmubGjQwGI4znBE7kJCYwkZOZxCmcymmczmSmcMbI6P/DzdzORrayme00pCVNaUtjWtPcmTrO4mymMo3pnMO5nMf5XMCFXMQMZjKL2UP4h5u5nY1sZTPbaUhLmtKWxrSmuTk65jKPi7mES7mMy7mC+VzJVSxgIYu4mmuG8A83czsb2cpmttOQljSlLY1pTXPX6riO61nMDSzhRm7iZm7hVpayjNu4nTu4cwj/cDO3s5GtbGY7DWlJU9rSmNY0t1zHClayitWs4S7Wso713M093Mt93M8DPDiEf7iZ29nIVjaznYa0pCltaUxrmntIx8M8wqM8xuM8wZM8xdNs4BmeZSPPsYnNQ/iHm7mdjWxlM9tpSEua0pbGtKa553W8wIts4SVe5hVeZSvbeI3XeYM32c5b7BjCP9zM7WxkK5vZTkNa0pS2NKY1ze3UEW+zi928w7vs4T32so/9vM8HfMhHfDyEf7iZ29nIVjaznYa0pCltaUxrmhv9irE39sbe/+39B6+qv2k=
+  </data>
+ </layer>
+ <layer name="块层 4" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztj8kNw1AQQp1OKD1tZF9KiHe7mbwC5hAkTtF/0tyAga7z+By644n7VY9WeGS+iXao6PGfjQy06sM73A4VA/6LkYFWQ3iH26FixH81MtBqDO9wO1RM+G9GBlpN4R1uh4oZ/93IQKs5vMPtULHgfxgZaLWEd7gdKlb8TyMDrdbwDrdDxYb/ZWSg1Rbe4Xao2PG/jQy02sM73A6NRuM/+AJ/u0sV
+  </data>
+ </layer>
+ <layer name="块层 2" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztzwPPWGccxuHOttfZZmebnW12ttnfbKuzzc42O9v6JruS8ymWvCe5kpMH//t+Ro0a+Ua+kW/k+398kzE5UzAlUzE10zAt0zE9MzAjMzEzszArszE7czAnczE38zAv8w3yn7Xs5UzO5k7uZkZmZWZmJyNZyUx2OqRLOqVbOqZrOqd73tD8ckazAAuyEAuzCIuyGIuzBEuyFEuzDMuyHMuzAiuyEiuzCquy2iD/WctezuRs7uRuZmRWZmZ2MpKVzGSnQ7qkU7qlY7qmc6OHN7S6nDGswZqsxdqsw7qsx/pswIZsxMZswqZsxuZswZZsxdZsw7ZsN8h/1rKXMzmbO7mbGZmVmZmdjGQlM9npkC7plG7pmK7p3JjhDW0vZyw7sCM7sTO7sCu7sTt7sCd7sTf7sC/7sT8HcCAHcTCHcCiHDfKftezlTM7mTu5mRmZlZmYnI1nJTHY6pEs6pVs6pms6N3Z4Q4fLGccRHMlRHM0xHMtxHM8JnMhJnMwpnMppnM4ZnMlZnM05nMt5g/xnLXs5k7O5k7uZkVmZmdnJSFYyk50O6ZJO6ZaO6ZrOjRve0PlyxhMXcCEXcTGXcCmXcTlXcCVXcTXXcC3XcT03cCM3cTO3cOsg/1nLXs7kbO7kbmZkVmZmdjKSlcxkp0O6pFO6pWO6pnPjhzd0m5wJ3M4d3Mld3M093Mt93M8DPMhDPMwjPMpjPM4TPMlTPM0zPDvIf9aylzM5mzu5mxmZlZmZnYxkJTPZ6ZAu6ZRu6Ziu6dyE4Q09J2ciz/MCL/ISL/MKr/Iar/MGb/IWb/MO7/Ie7/MBH/IRH/MJnw7yn7Xs5UzO5k7uZkZmZWZmJyNZyUx2OqRLOqVbOqZrOjdxeEOfyZnE53zBl3zF13zDt3zH9/zAj/zEz/zCr/zG7/zBn/zF3/zDv4P8Zy17OZOzuZO7mZFZmZnZyUhWMpOdDumSTumWjumazk0a3tB/Urg3Mg==
+  </data>
+ </layer>
+ <layer name="块层 4" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztkjEOgkAQRZc7IJwCESmECyAIBXgBQKRQ7t/7akJ2iiXRmHnJa/5PPrMJxiiKovw3vmfMAQMMve/vrLmwlWEubEb0R4zx5PB9acd2T0J2xnSja8k6vAu3FfRXLLFyeIe0Y7vnRlZjs9G9yN64CLf19AOO+HB4h7Rju2cie+K84/+oKMrv8gHGZw/x
+  </data>
+ </layer>
+ <layer name="块层 5" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt0rdKRFEUhlF9JBMmHHNjwoRZGxMmzNr+pVlfwaxv6Wrs544MIs6B1d39nbPhlurr6rrpoZc++hlgkCLH9zEX89GJXnSjnxJdFCuW35z11jnmWWCRJZZZKbiH72Mu5qMTvehGP+7JTAV7lNs88NZDjjjmhFPOOC+4h+9jLuajE73oRj/uyX4Fe5TbvPTWK6654ZY77nkouIfvYy7moxO96EY/7slFBXuU23zy1mdeeOWNdz74LLiH72Mu5qMTvehGP+7JYwV7VKNZO3/ntPoH22ing04aaKSJZloK/qe/cca9cYJJpphmiGFGGGXsB3t8N6t9ttyxzQ677LHKGutssPmDd3w3a6d2auf/ni81UXLh
+  </data>
+ </layer>
+ <objectgroup name="Collision">
+  <object x="0" y="352" width="1600" height="32"/>
+  <object x="1568" y="0" width="32" height="480"/>
+  <object x="0" y="0" width="32" height="480"/>
+ </objectgroup>
+ <objectgroup name="Artifact">
+  <object x="414.792" y="316.963" width="32" height="32">
+   <properties>
+    <property name="id" value="7"/>
+    <property name="name" value="ArtifactNode"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

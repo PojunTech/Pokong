@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map5" tilewidth="32" tileheight="32">
+  <image source="map5.png" width="800" height="352"/>
+ </tileset>
+ <tileset firstgid="276" name="map5_mid" tilewidth="32" tileheight="32">
+  <image source="map5_mid.png" width="192" height="288"/>
+ </tileset>
+ <tileset firstgid="330" name="map5_2" tilewidth="32" tileheight="32">
+  <image source="map5_2.png" width="160" height="160"/>
+ </tileset>
+ <layer name="块层 2" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzty0UOQ1EMQ9F0D2Vmpl9mxv1vqDcbqFQpGVR6ls7ItohIPCaSQBIppJHBt/z68d5rsvQ55FFAESXjj/deU6avoIoa6mgYf7z3miZ9C2100EXP+OO91/TpBxhihDEi44/3XjOhn2KGORZYGn+895oV/RobbLHD3vjjvdcc6I844YwLrsYf773mRn/HA0+88Db+eO9DQkJC/iUfMcQoFQ==
+  </data>
+ </layer>
+ <layer name="块层 1" width="50" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztzdVSUFEAQFFMbLGwC8ECA1sMVBAQsQW7W7EbG8XGTuzG7sbE+izXV5ynu2fW846JiYqKiooKWRWqUo3q1KAmsdSiNnWoSz3q04CGxNGIxjShKc2IpzktaBno0YrWtKEt7WhPBzqSQCcSSaIzXehKN7qTTAo96EkvepNKn0CPvvSjPwMYyCAGk8YQhjKM4aQzgpGMIoNMRpNFNjmMIZexgR55jGM8E5jIJCYzhankU8A0pjODmcxiNnOYyzzms4CFLGJxoMcSlrKM5axgJasoZDVrWMs61rOBjWxiM1vYyja2U8QOdrIr0GM3e9jLPorZzwFKOMghDnOEoxzjOKWc4CSnOM0ZznKO81wI9LjIJS5TxhWuco3r3OAmt7jNHe5yj/s8oJyHPOIxT3jKM54HerzgJa94zRve8o73fOAjn/hMBV/4yje+84OfVPKL3/zhL/8CPf4DlX6dCQ==
+  </data>
+ </layer>
+ <objectgroup name="Collision">
+  <object x="0" y="352" width="1600" height="32"/>
+  <object x="0" y="0" width="32" height="480"/>
+  <object x="1568" y="0" width="32" height="480"/>
+ </objectgroup>
+</map>
